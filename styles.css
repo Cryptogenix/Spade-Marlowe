@@ -237,5 +237,9 @@ a.social:hover {
     border-color: Black;
   }
 
+  .TextField {
+    margin: 10px 10px 10px 10px
+  }
+
 }
 
